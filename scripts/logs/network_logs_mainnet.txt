@@ -1,0 +1,20 @@
+
+# Date: 2024-11-20T11:46:15.596Z
+Contract Name: MAVILLAIN
+Contract Address: 0x6188C94bAd85de0F35340EE59974C58Efbe5028A
+Etherscan URL: https://etherscan.io/address/0x6188C94bAd85de0F35340EE59974C58Efbe5028A
+
+# Date: 2024-11-20T11:46:15.599Z
+Contract Name: MUTANT_ALIENS_VILLAIN
+Contract Address: 0xF47E141Ed0ef328561B8e1037B8eE3d9ea994421
+Etherscan URL: https://etherscan.io/address/0xF47E141Ed0ef328561B8e1037B8eE3d9ea994421
+
+# Date: 2024-11-20T14:03:47.361Z
+Contract Name: MAVILLAIN
+Contract Address: 0x5be6e0e0bbe7711DD118B9DC3C68cCF9BB9754Ea
+Etherscan URL: https://etherscan.io/address/0x5be6e0e0bbe7711DD118B9DC3C68cCF9BB9754Ea
+
+# Date: 2024-11-20T14:03:47.362Z
+Contract Name: MUTANT_ALIENS_VILLAIN
+Contract Address: 0xB62E49aD5Ed5317Be30568bff343dD5DD1BFC379
+Etherscan URL: https://etherscan.io/address/0xB62E49aD5Ed5317Be30568bff343dD5DD1BFC379
